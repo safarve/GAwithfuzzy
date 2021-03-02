@@ -1,0 +1,13 @@
+GA params:{
+Generations: 10
+Pop_size: 100}
+
+Total data points: 3410
+
+Number of samples: 10+26+26 = 62
+Data points per sample:55
+
+Training data size:2232
+Testing data size:1178
+
+Accuracy: 96.79
